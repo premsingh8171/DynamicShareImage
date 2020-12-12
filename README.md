@@ -17,7 +17,7 @@ allprojects {
 ```gradle
 dependencies {
 
-      	        implementation 'com.github.premsingh8171:DynamicShareImage:1.0.0'
+      	        implementation 'com.github.premsingh8171:DynamicShareImage:1.0.1'
 }
 ```
 
