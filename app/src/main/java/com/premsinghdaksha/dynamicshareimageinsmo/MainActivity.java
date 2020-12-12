@@ -5,8 +5,6 @@ import android.util.Log;
 import android.view.View;
 
 import androidx.appcompat.app.AppCompatActivity;
-
-
 import com.premsinghdaksha.dynamicimageshare.DynamicShareImage;
 
 import java.util.ArrayList;
